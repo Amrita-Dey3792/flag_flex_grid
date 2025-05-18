@@ -9,7 +9,7 @@
 ![Tablet View](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/tablet.png)
 
 ### ✅ Desktop/Web View (4 cards per row)
-![Desktop View](https://freeimage.host/i/screenshot-2025-05-16-133524.3P3FXPj)
+![Desktop View](https://iili.io/3P3FXPj.png)
 
 ## 🚀 How to Run the Project
 
