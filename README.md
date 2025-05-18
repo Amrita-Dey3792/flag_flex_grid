@@ -1,16 +1,20 @@
-# flag_flex_grid
+# 📱 Module 10 Assignment – Responsive UI Design
 
-A new Flutter project.
+## 📸 Screenshots
 
-## Getting Started
+### ✅ Mobile View (2 cards per row)
+![Mobile View](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/mobile.png)
 
-This project is a starting point for a Flutter application.
+### ✅ Tablet View (3 cards per row)
+![Tablet View](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/tablet.png)
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Desktop/Web View (4 cards per row)
+![Desktop View](https://freeimage.host/i/screenshot-2025-05-16-133524.3P3FXPj)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run the Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you're using **Flutter**:
+
+```bash
+flutter pub get
+flutter run
