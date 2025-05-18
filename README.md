@@ -3,10 +3,10 @@
 ## 📸 Screenshots
 
 ### ✅ Mobile View (2 cards per row)
-![Mobile View](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/mobile.png)
+![Mobile View](https://iili.io/3P3R34S.png)
 
 ### ✅ Tablet View (3 cards per row)
-![Tablet View](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/tablet.png)
+![Tablet View](https://iili.io/3P3Y8Mv.png)
 
 ### ✅ Desktop/Web View (4 cards per row)
 ![Desktop View](https://iili.io/3P3FXPj.png)
